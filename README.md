@@ -1,4 +1,10 @@
 # Boas vindas ao repositório do projeto de Receitas!
+#### Este projeto faz parte da formação Full Stack da <a href="https://www.betrybe.com/">Trybe</a>.
+
+Para acesso direto na web entre no Link <a href="https://angelobittencourt.github.io/RecipeApp/">Recipe App</a>
+
+Informe qualquer email e qualquer senha com 6 ou mais caracteres.
+Ex: teste@teste.com | 123456
 
 # Habilidades
 
