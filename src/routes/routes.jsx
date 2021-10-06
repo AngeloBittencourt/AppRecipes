@@ -22,7 +22,7 @@ import NotFound from '../pages/NotFound';
 function Routes() {
   return (
     <Switch>
-      <Route exact path="/" component={ Login } />
+      <Route exact path="/RecipeApp" component={ Login } />
       <Route exact path="/comidas" component={ Recipes } />
       <Route exact path="/bebidas" component={ Drinks } />
       <Route exact path="/comidas/:id" component={ FoodDetail } />
