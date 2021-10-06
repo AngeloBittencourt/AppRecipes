@@ -3,8 +3,8 @@
 
 Para acesso direto na web entre no Link <a href="https://angelobittencourt.github.io/RecipeApp/">Recipe App</a>
 
-Informe qualquer email e qualquer senha com 6 ou mais caracteres.
-Ex: teste@teste.com | 123456
+Informe qualquer email e qualquer senha com 7 ou mais caracteres.
+Ex: teste@teste.com | 1234567
 
 # Habilidades
 
