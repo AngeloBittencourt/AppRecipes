@@ -33,7 +33,7 @@ function Profile() {
           </button>
         </Link>
         <br />
-        <Link to="/">
+        <Link to="/RecipeApp">
           <button
             className="btn btn-danger"
             type="button"
