@@ -25,7 +25,7 @@ Ex: teste@teste.com | 1234567
 - O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
 
 
-Para iniciar o desenvolvimento, é necessário clonar o repositório do GitHub, acessar o projeto Wallet e intalar as dependências:
+Para iniciar o desenvolvimento, é necessário clonar o repositório do GitHub, acessar o projeto App Recipe e intalar as dependências:
 ```shell
 cd "diretorio de sua preferencia"
 git clone git@github.com:AngeloBittencourt/AppRecipes.git
