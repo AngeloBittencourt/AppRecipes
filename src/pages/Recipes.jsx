@@ -15,7 +15,7 @@ function Recipes() {
   } = useContext(RecipesContext);
   const history = useHistory();
   const NUMBER_OF_ITEMS = 12;
-  const NUMBER_OF_CATEGORIES = 5;
+  const NUMBER_OF_CATEGORIES = 6;
 
   useEffect(() => {
     if (filteredRecipes && filteredRecipes.length === 1) {
